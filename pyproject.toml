@@ -33,7 +33,7 @@ gitlab = ["python-gitlab"]
 
 [tool.poetry.group.dev.dependencies]
 black = "^25.1"
-boto3 = "^1.42.1"
+boto3 = "^1.42.4"
 flake8 = "^7"
 mypy = "^1.17"
 pytest-cov = "^7.0.0"
